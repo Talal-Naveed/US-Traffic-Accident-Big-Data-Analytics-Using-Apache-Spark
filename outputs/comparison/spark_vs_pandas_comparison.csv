@@ -1,0 +1,4 @@
+Operation,Spark_Time_Seconds,Pandas_Time_Seconds
+Accidents by Year,11.776039,0.12691239999912796
+Accidents by State,13.742439,0.2471657000023697
+Severity Distribution,10.952268,0.10719579999931739
