@@ -1,0 +1,366 @@
+Weather_Condition,Severity,count
+Fair,2,2221478
+Cloudy,2,691244
+Mostly Cloudy,2,610198
+Partly Cloudy,2,421271
+Fair,3,237460
+Light Rain,2,211921
+Mostly Cloudy,3,95962
+Cloudy,3,92520
+Light Snow,2,87070
+Fog,2,79213
+Partly Cloudy,3,64860
+Fair,4,59269
+Rain,2,50851
+Clear,2,44710
+Haze,2,44669
+Light Rain,3,38331
+Overcast,2,36528
+Fair,1,34354
+Fair / Windy,2,30743
+Cloudy,4,22596
+Heavy Rain,2,19577
+Clear,3,18207
+Mostly Cloudy,4,15821
+Overcast,3,14892
+Thunder in the Vicinity,2,14848
+Cloudy / Windy,2,14358
+Mostly Cloudy / Windy,2,13585
+T-Storm,2,13300
+Light Drizzle,2,12805
+Light Snow,3,12288
+Thunder,2,11910
+Partly Cloudy,4,11084
+Snow,2,10855
+Light Rain with Thunder,2,10688
+Mostly Cloudy,1,10569
+Wintry Mix,2,10281
+Rain,3,10080
+Scattered Clouds,2,9752
+Partly Cloudy / Windy,2,8505
+Smoke,2,8311
+Cloudy,1,7984
+Heavy T-Storm,2,7746
+Fog,3,6993
+Partly Cloudy,1,6750
+Light Rain / Windy,2,6531
+Light Rain,4,6460
+Light Snow / Windy,2,6141
+Haze,3,5167
+Scattered Clouds,3,4341
+Heavy Rain,3,4009
+Heavy Snow,2,3647
+Fair / Windy,3,3412
+Light Snow,4,3240
+N/A Precipitation,2,2919
+T-Storm,3,2862
+Drizzle,2,2676
+Light Drizzle,3,2418
+Light Rain with Thunder,3,2403
+Fog,4,2334
+Clear,4,2330
+Mostly Cloudy / Windy,3,2317
+Light Rain,1,2308
+Thunder in the Vicinity,3,2143
+Patches of Fog,2,2121
+Cloudy / Windy,3,2069
+Overcast,4,2032
+Shallow Fog,2,1994
+Rain / Windy,2,1956
+Thunder,3,1843
+Mist,2,1621
+Light Freezing Rain,2,1617
+Heavy T-Storm,3,1606
+Haze / Windy,2,1477
+Rain,4,1426
+Snow,3,1351
+Partly Cloudy / Windy,3,1317
+Heavy Rain / Windy,2,1230
+Showers in the Vicinity,2,1201
+Snow / Windy,2,1146
+Light Rain / Windy,3,1141
+Wintry Mix,3,1013
+Fair / Windy,4,1000
+Smoke,3,962
+Heavy T-Storm / Windy,2,890
+Blowing Snow / Windy,2,884
+Heavy Snow / Windy,2,810
+Fog / Windy,2,684
+Haze,4,659
+Fog,1,656
+T-Storm / Windy,2,655
+Light Freezing Drizzle,2,625
+Heavy Rain,4,546
+Drizzle,3,517
+Light Drizzle,4,510
+Blowing Snow,2,508
+Scattered Clouds,4,486
+Snow,4,467
+Light Snow / Windy,3,462
+Rain,1,451
+Thunder / Windy,2,449
+Cloudy / Windy,4,443
+Light Freezing Rain,3,417
+Mostly Cloudy / Windy,4,402
+T-Storm,4,402
+Wintry Mix,4,399
+Thunder in the Vicinity,4,385
+Fair / Windy,1,358
+Rain / Windy,3,339
+Smoke,4,339
+Drizzle and Fog,2,326
+Heavy Snow,3,317
+Snow and Sleet,2,291
+Patches of Fog,3,279
+Wintry Mix / Windy,2,270
+Shallow Fog,3,267
+Partly Cloudy / Windy,4,265
+Mist,3,260
+Showers in the Vicinity,3,250
+Light Rain with Thunder,4,248
+Heavy Rain / Windy,3,246
+Light Freezing Fog,2,242
+Thunder,4,234
+Blowing Dust / Windy,2,229
+Light Sleet,2,228
+Light Rain with Thunder,1,228
+Heavy Drizzle,2,226
+Haze,1,214
+T-Storm,1,211
+Light Snow / Windy,4,210
+N/A Precipitation,3,199
+Light Rain / Windy,4,199
+Heavy Rain,1,192
+Light Rain Shower,2,185
+Light Drizzle / Windy,2,182
+Mostly Cloudy / Windy,1,179
+Thunder in the Vicinity,1,177
+Light Snow and Sleet,2,171
+Blowing Dust,2,170
+Heavy Snow,4,170
+Thunder,1,168
+Heavy T-Storm / Windy,3,166
+Light Freezing Drizzle,3,165
+Freezing Rain,2,163
+Heavy T-Storm,4,151
+Heavy T-Storm,1,150
+Drizzle,4,149
+Light Drizzle,1,146
+T-Storm / Windy,3,140
+Sleet,2,134
+N/A Precipitation,4,122
+Partly Cloudy / Windy,1,113
+Cloudy / Windy,1,104
+Light Freezing Rain,4,99
+Snow / Windy,3,94
+Snow and Sleet / Windy,2,88
+Thunder / Windy,3,86
+Light Thunderstorms and Rain,2,83
+Light Snow,1,80
+Light Freezing Rain / Windy,2,67
+Thunderstorms and Rain,2,66
+Widespread Dust,2,65
+Blowing Snow,3,60
+Haze / Windy,4,59
+Drizzle and Fog,3,58
+Smoke / Windy,2,57
+Haze / Windy,3,56
+Wintry Mix / Windy,3,53
+Rain Shower,2,50
+Heavy Snow / Windy,4,49
+Light Freezing Fog,3,49
+Heavy Drizzle,3,48
+Rain / Windy,4,46
+Snow and Sleet,3,46
+Light Rain Shower,3,46
+Small Hail,2,45
+Light Thunderstorms and Rain,3,45
+Sand / Dust Whirlwinds,2,44
+Fog / Windy,3,43
+Snow / Windy,4,43
+Thunderstorms and Rain,3,43
+Heavy Snow / Windy,3,40
+Light Snow Shower,2,39
+Partial Fog,2,38
+Light Snow and Sleet / Windy,2,35
+Showers in the Vicinity,4,35
+Light Snow with Thunder,2,35
+Light Rain / Windy,1,34
+Patches of Fog,4,34
+Squalls / Windy,2,34
+Ice Pellets,2,34
+Hail,2,34
+Light Drizzle / Windy,3,32
+Light Freezing Drizzle,4,31
+Snow,1,29
+Heavy Thunderstorms and Rain,3,29
+Light Ice Pellets,2,28
+Thunderstorm,2,27
+Mist,4,26
+Heavy Sleet,2,26
+Smoke / Windy,4,26
+Thunder / Wintry Mix,2,25
+Freezing Drizzle,2,25
+Blowing Snow,4,25
+Heavy Thunderstorms and Rain,2,25
+Blowing Snow / Windy,4,24
+Shallow Fog,1,23
+Freezing Rain,3,23
+Light Snow and Sleet,3,23
+Rain Showers,3,23
+Sleet / Windy,2,23
+Light Sleet,3,22
+Widespread Dust / Windy,2,22
+Light Ice Pellets,3,22
+Snow and Thunder,2,20
+Heavy Rain / Windy,4,20
+Light Drizzle / Windy,4,20
+Heavy T-Storm / Windy,1,19
+Blowing Dust / Windy,3,19
+Drizzle / Windy,2,19
+Patches of Fog,1,18
+Thunder / Windy,4,18
+Clear,1,18
+Light Rain Shower,4,18
+Light Freezing Fog,4,18
+Blowing Dust,3,17
+Blowing Snow / Windy,3,17
+Shallow Fog,4,17
+Freezing Rain / Windy,2,17
+Tornado,2,17
+Showers in the Vicinity,1,16
+Mist / Windy,2,15
+Fog / Windy,4,15
+Rain Showers,2,15
+Light Rain Shower / Windy,2,14
+Heavy T-Storm / Windy,4,14
+Snow and Sleet,4,13
+Thunder and Hail,2,13
+Light Sleet / Windy,2,13
+Rain / Windy,1,13
+Heavy Rain / Windy,1,12
+Squalls,2,12
+T-Storm / Windy,4,11
+Freezing Rain,4,11
+Ice Pellets,3,11
+Light Snow and Sleet / Windy,3,10
+Drizzle,1,10
+Widespread Dust,3,10
+Overcast,1,10
+Thunderstorm,3,10
+Thunder / Windy,1,9
+Heavy Freezing Rain,2,9
+Squalls / Windy,3,9
+Thunder / Wintry Mix / Windy,2,9
+Light Snow and Sleet,4,9
+Heavy Drizzle,4,9
+Light Rain Shower,1,8
+Snow and Sleet / Windy,3,8
+Mist,1,8
+Sleet,3,8
+Blowing Dust / Windy,4,8
+Blowing Dust / Windy,1,8
+Wintry Mix / Windy,4,7
+Smoke,1,7
+Light Freezing Rain / Windy,3,7
+Smoke / Windy,3,7
+Heavy Sleet,3,7
+Drizzle and Fog,4,7
+Shallow Fog / Windy,2,7
+T-Storm / Windy,1,6
+Sand / Dust Whirls Nearby,2,6
+Sand / Dust Whirlwinds,3,6
+Freezing Drizzle,3,5
+Rain Shower,3,5
+Sleet,4,5
+Light Snow Shower / Windy,2,5
+Small Hail,3,5
+Light Freezing Rain / Windy,4,5
+Snow Grains,2,5
+Drizzle / Windy,3,4
+Rain Shower,4,4
+Funnel Cloud,2,4
+Sand / Dust Whirlwinds / Windy,2,4
+Light Thunderstorms and Snow,2,4
+Heavy Snow with Thunder,2,4
+Drifting Snow / Windy,2,4
+Heavy Freezing Drizzle,2,4
+Sleet and Thunder,2,4
+Hail,4,4
+Light Sleet,4,4
+Light Thunderstorms and Rain,4,4
+Thunder / Wintry Mix,3,3
+Squalls / Windy,4,3
+Light Snow Grains,2,3
+Light Snow Showers,3,3
+Heavy Snow with Thunder,3,3
+Light Snow Shower,4,3
+Rain Shower / Windy,2,3
+Light Snow / Windy,1,3
+Patches of Fog / Windy,4,3
+Widespread Dust / Windy,3,2
+Sleet / Windy,3,2
+Haze / Windy,1,2
+Light Drizzle / Windy,1,2
+Light Snow with Thunder,3,2
+Light Sleet / Windy,3,2
+Patches of Fog / Windy,2,2
+Light Snow Shower,3,2
+Low Drifting Snow,2,2
+Heavy Blowing Snow,3,2
+Thunderstorms and Rain,4,2
+Light Rain Showers,3,2
+Low Drifting Snow,3,2
+Heavy Sleet and Thunder,2,2
+Drifting Snow / Windy,4,2
+Duststorm,2,2
+Small Hail,4,2
+Patches of Fog / Windy,3,2
+Heavy Rain Shower,2,2
+Heavy Thunderstorms and Rain,4,2
+Light Rain Shower / Windy,1,2
+Light Sleet,1,2
+Wintry Mix,1,2
+N/A Precipitation,1,1
+Drizzle and Fog,1,1
+Heavy Freezing Rain / Windy,3,1
+Tornado,1,1
+Snow and Thunder / Windy,3,1
+Duststorm,3,1
+Squalls,3,1
+Widespread Dust,4,1
+Rain and Sleet,3,1
+Rain and Sleet,2,1
+Partial Fog,3,1
+Partial Fog / Windy,3,1
+Funnel Cloud,3,1
+Light Rain Showers,2,1
+Snow and Thunder,3,1
+Light Snow Showers,2,1
+Thunder / Wintry Mix / Windy,3,1
+Scattered Clouds,1,1
+Tornado,4,1
+Thunder and Hail / Windy,2,1
+Heavy Sleet / Windy,2,1
+Sand / Windy,2,1
+Thunder / Wintry Mix,4,1
+Heavy Rain Shower / Windy,2,1
+Snow and Thunder / Windy,2,1
+Blowing Snow Nearby,2,1
+Blowing Sand,2,1
+Squalls / Windy,1,1
+Partial Fog,4,1
+Widespread Dust,1,1
+Blowing Dust,1,1
+Heavy Snow / Windy,1,1
+Heavy Snow,1,1
+Drifting Snow,2,1
+Heavy Rain Shower,3,1
+Light Ice Pellets,4,1
+Ice Pellets,4,1
+Thunder and Hail,1,1
+Light Thunderstorms and Snow,4,1
+Thunder and Hail / Windy,3,1
+Sand / Dust Whirlwinds,4,1
+Light Snow with Thunder,4,1
+Heavy Snow with Thunder,4,1
